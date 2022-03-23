@@ -46,7 +46,7 @@ Html
 
 Bootstrup
 
-python()
+python(django)
 
 Css
 
