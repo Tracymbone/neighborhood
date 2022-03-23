@@ -44,7 +44,7 @@ This project is also foung in other medias.
 
 Html
 
-Bootstrup4
+Bootstrup
 
 python(django)
 
