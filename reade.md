@@ -42,7 +42,7 @@ This project is also foung in other medias.
 
 ## TECHNOLOGIES USED
 
-Html5
+Html
 
 Bootstrup4
 
