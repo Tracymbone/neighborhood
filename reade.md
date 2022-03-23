@@ -11,7 +11,7 @@ A web application that allows you to be in the loop about everything happening i
 
 Tressy Mbone
 
-Software Developer
+Software Developer moringa
 
 ### PROJECT LINK
 
