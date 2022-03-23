@@ -38,7 +38,7 @@ Only view details of a single neighborhood.
 
 ## SETUP INSTRUCTION
 
-This project is also foung in other media.
+This project is also foung in other medias.
 
 ## TECHNOLOGIES USED
 
