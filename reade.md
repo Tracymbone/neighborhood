@@ -17,7 +17,7 @@ Software Developer
 
 This link will take you to my project 
 
-## USER STORY
+## USER STORYS
 ### As a user I would like to:
 
 Sign in with the application to start using.
