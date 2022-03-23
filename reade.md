@@ -5,7 +5,7 @@ NEIGHBORHOOD
 
 ## PROJECT  DESCRIPTION
 
-A web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcement or even alerts.
+A web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts.
 
 ### AUTHOR INFORMATION
 
