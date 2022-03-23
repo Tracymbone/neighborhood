@@ -62,7 +62,7 @@ Heroku
 
 ## EMAIL INFORATION
 
-tracymbone1@gmail.c0m
+tracymbone1@gmail.com
 
 tressy.mbone@student.moringaschool.com
 
