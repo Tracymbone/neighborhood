@@ -9,7 +9,7 @@ A web application that allows you to be in the loop about everything happening i
 
 ### AUTHOR INFORMATION
 
-Tr Mbone
+Tressy Mbone
 
 Software Developer
 
