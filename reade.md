@@ -13,7 +13,7 @@ Tracy Mbone
 
 Software Developer
 
-### PROJECT LINK
+### PROJECT LIN
 
 This link will take you to my project 
 
