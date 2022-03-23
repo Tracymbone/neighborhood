@@ -30,7 +30,7 @@ Find Contact Information for the health department and Police authorities near m
 
 Create Posts that will be visible to everyone in my neighborhood.
 
-Change My neighborhood when I decide to move out.
+Change My neighborhoods when I decide to move out.
 
 Only view details of a single neighborhood.
 
